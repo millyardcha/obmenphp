@@ -1,5 +1,5 @@
 <?php
-define('API_KEY',"1654130041:AAEludfpSNPs0lwx3uF3FvFxAaeldGcUBE8");
+define('API_KEY',"1654130041:AAHPKMMfEwAiD5zcSxvF3euLVxObRdFC2h0");
 $admin = "1337486313"; // admin idsi
 function put($fayl,$nima){
 file_put_contents("$fayl","$nima");
